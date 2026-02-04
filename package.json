@@ -1,7 +1,6 @@
 {
-  "name": "telegram-bot",
+  "name": "rahat-demo-bot",
   "version": "1.0.0",
-  "description": "Telegram bot using bot.js and script.js",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
