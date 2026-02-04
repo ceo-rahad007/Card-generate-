@@ -1,10 +1,9 @@
-<?php
 // ==================================================
 // ⚡ RAHAT • LAB GENERATOR (DEMO BOT)
 // ==================================================
 
 // ===================== CONFIG =====================
-$botToken = "8087138122:AAEhFKkEytW0dS9IUSP4qseY6wewwNV9lmc"; // <-- এখানে আপনার বট টোকেন দিন
+$botToken = "8368851044:AAF3Vyh-DUlm_zmikg_EE76IyXBxUiDgEeI"; // <-- এখানে আপনার বট টোকেন দিন
 $api = "https://api.telegram.org/bot$botToken/";
 
 // ===================== RECEIVE UPDATE =====================
