@@ -3,7 +3,7 @@
 // ==================================================
 
 // ===================== CONFIG =====================
-const BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN_HERE"; // 👈 এখানে bot token দাও
+const BOT_TOKEN = "8368851044:AAF3Vyh-DUlm_zmikg_EE76IyXBxUiDgEeI"; // 👈 এখানে bot token দাও
 
 const TelegramBot = require("node-telegram-bot-api");
 const bot = new TelegramBot(BOT_TOKEN, { polling: true });
